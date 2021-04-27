@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\02_ProjetoByteBank.exe
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\02_ProjetoByteBank.deps.json
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\02_ProjetoByteBank.runtimeconfig.json
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\02_ProjetoByteBank.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\02_ProjetoByteBank.dll
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\ref\02_ProjetoByteBank.dll
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\bin\Debug\net5.0\02_ProjetoByteBank.pdb
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.dll
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\ref\02_ProjetoByteBank.dll
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.pdb
+C:\workspace\Alura\CSharp\OrientacaoObjeto\01_ProjetoByteBank\02_ProjetoByteBank\obj\Debug\net5.0\02_ProjetoByteBank.genruntimeconfig.cache
